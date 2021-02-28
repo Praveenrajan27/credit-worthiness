@@ -1,8 +1,7 @@
 # credit-worthiness
 
-A person’s creditworthiness is often associated with the likelihood they may default on loans. The data has about 1000 loan applications, along with a certain set of
-attributes about the applicant itself, and whether they were considered high risk.This data on loan applicants is explored and a model is built to
-predict whether or not an application can be deemed creditworthy.
+A person’s creditworthiness is often associated with the likelihood they may default on loans. The data has about data about loan applications, along with a certain set of
+attributes about the applicant.This data on loan applicants is explored and a model is built to predict whether or not an applicant are considered low risk and therefore can be deemed creditworthy.
 
 1. Exploratory Data Analysis
 2. Feature Engineering
