@@ -9,6 +9,7 @@ Part 1 - EDA, Feature Engineering and Baseline
   3. Handling Missing values
   4. Evaluation Metric Discussion
   5. Baseline Model - Non ML approach
+
 Part 2 - Preprocessing and Model Building
   7. Preprocessing and data encoding
   8. Model Selection
