@@ -11,6 +11,7 @@ Part 1 - EDA, Feature Engineering and Baseline
   5. Baseline Model - Non ML approach
 
 Part 2 - Preprocessing and Model Building
+
   7. Preprocessing and data encoding
   8. Model Selection
   9. Finetuning the final model
